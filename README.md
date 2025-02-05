@@ -24,7 +24,6 @@ Tibbiyot AI Chatbot - bu foydalanuvchilardan umumiy ma'lumotlarni olib, tibbiy s
 2. O'zgarishlarni yangi branchda bajaring.
 3. Pull request yarating.
 
-## Litsenziya
 
 
 
